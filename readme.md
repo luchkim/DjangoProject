@@ -1,5 +1,4 @@
 
-https://www.youtube.com/watch?v=rHux0gMZ3Eg
 
 pipenv install django : install virtua env for Django
 pipenv shell   : to activate virtual env for the project
